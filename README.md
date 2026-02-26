@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhin B</h1>
 <h3 align="center">I am a mathematics and computing undergraduate @IIT Goa with a robust data analytics, machine learning, and OOPS background</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhin11&label=Profile%20views&color=0e75b6&style=flat" alt="abhin11" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhin11" alt="abhin11" /></a> </p>
 
 - 🔭 I’m currently working as **ML research intern @IUDX**
