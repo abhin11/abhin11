@@ -33,38 +33,25 @@ Modular system architecture • Event-driven backtesting • Git • Linux
 
 ## Research Orientation
 
-My approach emphasizes:
+My approach emphasises:
 
 • Clear mathematical formulation  
 • Reproducible experimentation  
 • Robust out-of-sample validation  
-• Realistic execution and risk modeling  
+• Realistic execution and risk modelling  
 • Scalable computational design  
 
 ---
 
 ## Current Focus
 
-Building modular quantitative research infrastructure capable of:
+Building a modular quantitative research infrastructure capable of:
 
 • Monte Carlo simulation frameworks  
-• Factor modeling pipelines  
+• Factor modelling pipelines  
 • Risk-aware portfolio construction  
 • Execution-aware backtesting systems  
 
----
-
-## Selected Work
-
-(Pinned repositories below)
-
-• Quant Research Lab  
-• Systematic Trading Engine  
-• Derivatives Pricing Library  
-• ML Alpha Factor Model  
-• Limit Order Book Simulator  
-
----
 
 ## Contact
 
